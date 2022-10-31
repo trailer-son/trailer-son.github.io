@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://trailer-son.github.io/sitemap.xml

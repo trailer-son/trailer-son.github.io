@@ -1,0 +1,29 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Web logs by son
+baseurl:        ""
+url:            ""
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Young Son
+  url:          
+  email:        raxkson@gmail.com  
+  github:       trailer-son
+  twitter:      trailer-son
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/trailer-son/trailer-son.github.io
+
